@@ -8,6 +8,7 @@
     ],
     "repository": "https://github.com/ClubFX/Save-Restricted-Bot",
     "website": "https://github.com/ClubFX/Save-Restricted-Bot",
+    "success_url": "https://t.me/Raj02_bots",
     "env": {
         "ID": {
           "description": "Get this value from my.telegram.org",
